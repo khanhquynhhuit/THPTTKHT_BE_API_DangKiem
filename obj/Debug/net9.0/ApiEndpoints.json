@@ -1,0 +1,665 @@
+[
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.AuthController",
+    "Method": "ChangeRole",
+    "RelativePath": "api/Auth/change-role/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "API_QuanLyDangKiem.Controllers.AuthController\u002BChangeRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.AuthController",
+    "Method": "Me",
+    "RelativePath": "api/Auth/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.AuthController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Auth/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.AuthController",
+    "Method": "SoftDeleteUser",
+    "RelativePath": "api/Auth/users/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "Create",
+    "RelativePath": "api/Bookings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.BookingCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "Update",
+    "RelativePath": "api/Bookings/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.BookingCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "GetAdminDashboardStats",
+    "RelativePath": "api/Bookings/admin-dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "Cancel",
+    "RelativePath": "api/Bookings/cancel/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "GetDashboardStats",
+    "RelativePath": "api/Bookings/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "GetBookingDetail",
+    "RelativePath": "api/Bookings/detail/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "MyBookings",
+    "RelativePath": "api/Bookings/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.BookingsController",
+    "Method": "GetAllForStaff",
+    "RelativePath": "api/Bookings/staff",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.InspectionCentersController",
+    "Method": "GetAll",
+    "RelativePath": "api/InspectionCenters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.InspectionCentersController",
+    "Method": "Create",
+    "RelativePath": "api/InspectionCenters",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.InspectionCenterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.InspectionCentersController",
+    "Method": "GetById",
+    "RelativePath": "api/InspectionCenters/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.InspectionCentersController",
+    "Method": "Update",
+    "RelativePath": "api/InspectionCenters/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.InspectionCenterUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.InspectionCentersController",
+    "Method": "Delete",
+    "RelativePath": "api/InspectionCenters/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.InspectionResultsController",
+    "Method": "Create",
+    "RelativePath": "api/InspectionResults",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.InspectionResultCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.NotificationsController",
+    "Method": "MarkAsRead",
+    "RelativePath": "api/Notifications/{id}/read",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.NotificationsController",
+    "Method": "GetMyNotifications",
+    "RelativePath": "api/Notifications/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.NotificationsController",
+    "Method": "MarkAllAsRead",
+    "RelativePath": "api/Notifications/read-all",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PaymentsController",
+    "Method": "Pay",
+    "RelativePath": "api/Payments/{id}/pay",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "API_QuanLyDangKiem.Controllers.PaymentsController\u002BPayRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PaymentsController",
+    "Method": "GetPaymentHistory",
+    "RelativePath": "api/Payments/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PaymentsController",
+    "Method": "GetMyPayments",
+    "RelativePath": "api/Payments/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PaymentsController",
+    "Method": "GetRevenueStats",
+    "RelativePath": "api/Payments/revenue-stats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PricesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Prices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PricesController",
+    "Method": "Create",
+    "RelativePath": "api/Prices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.PriceCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PricesController",
+    "Method": "Update",
+    "RelativePath": "api/Prices/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.PriceCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.PricesController",
+    "Method": "Delete",
+    "RelativePath": "api/Prices/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.TestController",
+    "Method": "Get",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.TimeSlotsController",
+    "Method": "GetAll",
+    "RelativePath": "api/TimeSlots",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.TimeSlotsController",
+    "Method": "Create",
+    "RelativePath": "api/TimeSlots",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.TimeSlotCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.TimeSlotsController",
+    "Method": "GetByCenter",
+    "RelativePath": "api/TimeSlots/center/{centerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "centerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleController",
+    "Method": "Create",
+    "RelativePath": "api/Vehicle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.VehicleCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleController",
+    "Method": "Update",
+    "RelativePath": "api/Vehicle/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.VehicleUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleController",
+    "Method": "Delete",
+    "RelativePath": "api/Vehicle/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleController",
+    "Method": "GetAllVehicles",
+    "RelativePath": "api/Vehicle/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleController",
+    "Method": "MyVehicles",
+    "RelativePath": "api/Vehicle/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleController",
+    "Method": "SearchVehicleByLicensePlate",
+    "RelativePath": "api/Vehicle/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bienSo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleTypesController",
+    "Method": "GetAll",
+    "RelativePath": "api/VehicleTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleTypesController",
+    "Method": "Create",
+    "RelativePath": "api/VehicleTypes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.VehicleTypeCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleTypesController",
+    "Method": "GetById",
+    "RelativePath": "api/VehicleTypes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleTypesController",
+    "Method": "Update",
+    "RelativePath": "api/VehicleTypes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "API_QuanLyDangKiem.DTOs.VehicleTypeUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_QuanLyDangKiem.Controllers.VehicleTypesController",
+    "Method": "Delete",
+    "RelativePath": "api/VehicleTypes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

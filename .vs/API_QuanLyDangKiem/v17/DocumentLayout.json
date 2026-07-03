@@ -1,0 +1,532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\api_quanlydangkiem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:api_quanlydangkiem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\api_quanlydangkiem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:api_quanlydangkiem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\bookingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\bookingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\timeslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\timeslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\inspectionresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\inspectionresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\inspectioncenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\inspectioncenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\controllers\\vehicletypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:controllers\\vehicletypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\vehicletypecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\vehicletypecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\vehicletypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\vehicletypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\vehicletypeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\vehicletypeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\vehicleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\vehicleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\inspectionresultcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\inspectionresultcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\vehiclecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\vehiclecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\timeslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\timeslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\timeslotcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\timeslotcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\inspectioncenterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\inspectioncenterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\inspectioncenterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\inspectioncenterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\entities\\phuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:entities\\phuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\vehicleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\vehicleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\entities\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:entities\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\api_quanlydangkiem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:api_quanlydangkiem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|d:\\systemanalysisdesign\\ql_dangkiem\\api_quanlydangkiem\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECDD97C-B9E3-4B06-8523-830B76F8819E}|API_QuanLyDangKiem.csproj|solutionrelative:entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 460,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InspectionCentersController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\InspectionCentersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InspectionCentersController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\InspectionCentersController.cs",
+              "RelativeToolTip": "Controllers\\InspectionCentersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:35:44.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:12:01.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:07:03.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T08:03:38.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAowIUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:24:32.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowF8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:51:08.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API_QuanLyDangKiem.http",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\API_QuanLyDangKiem.http",
+              "RelativeDocumentMoniker": "API_QuanLyDangKiem.http",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\API_QuanLyDangKiem.http",
+              "RelativeToolTip": "API_QuanLyDangKiem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-29T08:07:04.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API_QuanLyDangKiem",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\API_QuanLyDangKiem.csproj",
+              "RelativeDocumentMoniker": "API_QuanLyDangKiem.csproj",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\API_QuanLyDangKiem.csproj",
+              "RelativeToolTip": "API_QuanLyDangKiem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-07T08:03:23.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InspectionResultsController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\InspectionResultsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InspectionResultsController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\InspectionResultsController.cs",
+              "RelativeToolTip": "Controllers\\InspectionResultsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:53:32.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T08:11:04.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingCreateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\BookingCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookingCreateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\BookingCreateDto.cs",
+              "RelativeToolTip": "DTOs\\BookingCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:50:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeSlotsController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\TimeSlotsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimeSlotsController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\TimeSlotsController.cs",
+              "RelativeToolTip": "Controllers\\TimeSlotsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwD4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:47:39.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:17:43.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehicleTypesController.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\VehicleTypesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleTypesController.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Controllers\\VehicleTypesController.cs",
+              "RelativeToolTip": "Controllers\\VehicleTypesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADgv0oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:24:21.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleTypeCreateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleTypeCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VehicleTypeCreateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleTypeCreateDto.cs",
+              "RelativeToolTip": "DTOs\\VehicleTypeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:56:52.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehicleTypeUpdateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleTypeUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VehicleTypeUpdateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleTypeUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\VehicleTypeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:55:27.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VehicleUpdateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VehicleUpdateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\VehicleUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:10:47.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehicleTypeDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleTypeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VehicleTypeDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleTypeDto.cs",
+              "RelativeToolTip": "DTOs\\VehicleTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:23:48.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InspectionResultCreateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\InspectionResultCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\InspectionResultCreateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\InspectionResultCreateDto.cs",
+              "RelativeToolTip": "DTOs\\InspectionResultCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:52:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleCreateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VehicleCreateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleCreateDto.cs",
+              "RelativeToolTip": "DTOs\\VehicleCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:10:18.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TimeSlotDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\TimeSlotDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TimeSlotDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\TimeSlotDto.cs",
+              "RelativeToolTip": "DTOs\\TimeSlotDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:47:08.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InspectionCenterUpdateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\InspectionCenterUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\InspectionCenterUpdateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\InspectionCenterUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\InspectionCenterUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:44:08.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TimeSlotCreateDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\TimeSlotCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TimeSlotCreateDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\TimeSlotCreateDto.cs",
+              "RelativeToolTip": "DTOs\\TimeSlotCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:39:12.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InspectionCenterDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\InspectionCenterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\InspectionCenterDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\InspectionCenterDto.cs",
+              "RelativeToolTip": "DTOs\\InspectionCenterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:34:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PhuongTien.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Entities\\PhuongTien.cs",
+              "RelativeDocumentMoniker": "Entities\\PhuongTien.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Entities\\PhuongTien.cs",
+              "RelativeToolTip": "Entities\\PhuongTien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:20:32.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VehicleResponseDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VehicleResponseDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\VehicleResponseDto.cs",
+              "RelativeToolTip": "DTOs\\VehicleResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:11:21.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:24:00.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:23:29.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "API_QuanLyDangKiem.csproj",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\API_QuanLyDangKiem.csproj",
+              "RelativeDocumentMoniker": "API_QuanLyDangKiem.csproj",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\API_QuanLyDangKiem.csproj",
+              "RelativeToolTip": "API_QuanLyDangKiem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T08:22:47.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Entities\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "Entities\\NguoiDung.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Entities\\NguoiDung.cs",
+              "RelativeToolTip": "Entities\\NguoiDung.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:34:40.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\AppDbContext.cs",
+              "ToolTip": "D:\\SystemAnalysisDesign\\QL_DangKiem\\API_QuanLyDangKiem\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:15:58.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
